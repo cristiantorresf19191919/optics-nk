@@ -16,7 +16,7 @@ Place the final film at `public/videos/brand-film.mp4`. In `src/app/app.ts`, set
 
 ## Content and assets
 
-Business logo and eyewear image sourced from https://www.instagram.com/opticsnk/ with the business owner's project authorization. Address and current contact number came from that profile: Calle 18 # 8–62, Tower Visión, Local 232, Bogotá; +57 312 418 8114. Historical promotional prices and unverified opening hours are intentionally excluded.
+Business logo and eyewear image sourced from https://www.instagram.com/opticsnk/ with the project user's authorization. Address and current contact number came from that profile: Calle 18 # 8–62, Tower Visión, Local 232, Bogotá; +57 312 418 8114. Historical promotional prices and unverified opening hours are intentionally excluded.
 
 Hero, lens, and contact imagery are AI-generated illustrative campaign assets, not actual inventory, employees, or customer testimonials. Assets and business branding are reserved to their respective owners; public source availability does not grant redistribution rights to third-party brand media.
 
@@ -25,3 +25,9 @@ Images generated with the built-in imagegen tool. Hero prompt: editorial close-u
 ## Design rationale
 
 Editorial typography, warm neutrals, generous spacing, restrained motion, visible contact actions, honest content, touch-friendly controls, semantic landmarks, keyboard focus, reduced-motion support. Fashion campaign images are balanced with actual store product imagery.
+
+## Live site
+
+https://optics-nk.netlify.app/
+
+Public source: https://github.com/cristiantorresf19191919/optics-nk
