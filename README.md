@@ -10,9 +10,9 @@ Use Node 22, then `npm ci` and `npm start`. Production: `npm run build`.
 
 Netlify builds `main` with `npm run build`, serving `dist/optics-nk/browser`. Settings and SPA redirects are in `netlify.toml`.
 
-## Add the final video
+## Brand video
 
-Place the final film at `public/videos/brand-film.mp4`. In `src/app/app.ts`, set `videoUrl = '/videos/brand-film.mp4'`. The film section automatically switches from the designed coming-soon panel to a native accessible player. Add a subtitle track when available. Commit and push to main to publish.
+The user-supplied Gemini film is published at `public/videos/brand-film.mp4`: 1280 × 720, approximately 10 seconds. The film section uses a responsive 16:9 native player with controls and the original brand logo as its poster. To replace the video, update that file, commit, and push to main. Add a subtitle track when available.
 
 ## Content and assets
 

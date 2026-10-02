@@ -3,7 +3,7 @@ import { Component, signal } from '@angular/core';
 export class App {
   menuOpen = signal(false);
   activeCategory = signal('Todos');
-  videoUrl = ''; // Set to /videos/brand-film.mp4 when the final film is ready.
+  videoUrl = '/videos/brand-film.mp4';
   whatsapp = 'https://wa.me/573124188114?text=Hola%20Optics%20NK%2C%20quiero%20agendar%20una%20cita%20y%20conocer%20sus%20monturas.';
   categories = ['Todos','Monturas','Lentes','Contacto'];
   collections = [
